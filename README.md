@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20980
-Fork on GitHub6492
+
 <h1 align="center">Hi 👋, I'm Lisa</h1>
 <h3 align="center">A final-year Mobile Computing undergraduate student at UiTM Kuala Terengganu</h3>
 
